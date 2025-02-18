@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  netobserv:
+  - apiVersion: v2
+    appVersion: 7.7.1
+    created: "2024-12-10T16:26:19.917007758Z"
+    description: ElastiFlow NetObserv
+    digest: 454eed6916fb3cc36ad43cb79169df70403d1f22e1433a25c13567e8b8fef02b
+    keywords:
+    - netflow
+    - network
+    - flow
+    - observability
+    maintainers:
+    - email: engineering@elastiflow.com
+      name: ElastiFlow Engineering Team
+    name: netobserv
+    sources:
+    - https://github.com/elastiflow/helm-chart-netobserv
+    - https://hub.docker.com/r/elastiflow/flowcollector/
+    type: application
+    urls:
+    - https://github.com/elastiflow/helm-chart-netobserv/releases/download/netobserv-0.4.4/netobserv-0.4.4.tgz
+    version: 0.4.4
+generated: "2024-12-10T16:26:19.917013599Z"
