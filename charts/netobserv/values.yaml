@@ -13,7 +13,7 @@ image:
   repository: elastiflow/flow-collector
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: ""
+  tag: "7.7.1"
 
 env:
   - name: EF_LICENSE_ACCEPTED
