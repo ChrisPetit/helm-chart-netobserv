@@ -16,7 +16,7 @@ entries:
       name: ElastiFlow Engineering Team
     name: netobserv
     sources:
-    - https://github.com/elastiflow/helm-chart-netobserv
+    - https://github.com/ChrisPetit/helm-chart-netobserv
     - https://hub.docker.com/r/elastiflow/flowcollector/
     type: application
     urls:
